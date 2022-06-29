@@ -20,7 +20,7 @@ canvas
 {
     border: 5px solid white;
     border-radius: 10px;
-    box-shadow: 7 7 7 blueviolet;
+    box-shadow: 7px 7px 7px blueviolet;
 }
 
 .copy_right_footer
